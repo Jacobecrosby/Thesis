@@ -1,0 +1,56 @@
+\glsdefs@newdocentry{sm}%
+{%
+name={SM},%
+sort={SM},%
+type={acronym},%
+first={Standard Model\glsspace (SM)},%
+firstplural={Standard Model\acrpluralsuffix \glsspace (SM\acrpluralsuffix )},%
+text={SM},%
+plural={SM\acrpluralsuffix },%
+description={Standard Model},%
+descriptionplural={Standard Model\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Standard Model},%
+longplural={Standard Models},%
+short={SM},%
+shortplural={SMs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{bsm}%
+{%
+name={BSM},%
+sort={BSM},%
+type={acronym},%
+first={Beyond the Standard Model\glsspace (BSM)},%
+firstplural={Beyond the Standard Model\acrpluralsuffix \glsspace (BSM\acrpluralsuffix )},%
+text={BSM},%
+plural={BSM\acrpluralsuffix },%
+description={Beyond the Standard Model},%
+descriptionplural={Beyond the Standard Model\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Beyond the Standard Model},%
+longplural={Beyond the Standard Models},%
+short={BSM},%
+shortplural={BSMs},%
+counter={page},%
+parent={},%
+%
+}%
+

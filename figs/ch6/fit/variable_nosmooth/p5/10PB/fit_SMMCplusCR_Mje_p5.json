@@ -1,0 +1,25 @@
+{
+  "analytic_chi2": 1.2260979439039512,
+  "analytic_npar": 5,
+  "analytic_minMass": 405.0,
+  "variable": "Mje",
+  "analytic_param": {
+    "p0": 55964150.96868554,
+    "p1": 26.978294621777255,
+    "p2": 11.195570464699301,
+    "p3": 4.169615612045625,
+    "p4": 0.4842614978765009
+  },
+  "pull_KSprob": 0.45544180437492426,
+  "pull_ShapiroWilk": 0.9757485009829093,
+  "pull_GausMean": 0.1850497865964897,
+  "pull_GausMeanErr": 0.1269402544193587,
+  "pull_GausSigma": 0.9895086205753003,
+  "pull_GausSigmaErr": 0.11293205807500228,
+  "pull_chi2": 1.166452387986067,
+  "pull_chi2prob": 0.279607683774027,
+  "hist_Kurtosis": 1.2773881444910193,
+  "hist_Kurtosis_err": 0.49236596391733095,
+  "hist_Skewness": -0.478475787410023,
+  "hist_Skewness_err": 0.24618298195866548
+}

@@ -1,0 +1,416 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{10}
+\interlinepenalty=10000
+
+\bibitem{cca}
+J.~Faltz A.~Rosenfeld, \emph{Sequential operations in digital picture
+  processing}, J. ACM (1966), no.~13, 471--494.
+
+\bibitem{neutrino-oscl}
+Q.~R. Ahmad~et al, \emph{Direct evidence for neutrino flavor transformation
+  from neutral-current interactions in the sudbury neutrino observatory}, Phys.
+  Rev. Lett. \textbf{89} (2002), 011301.
+
+\bibitem{ele-cali}
+ATLAS Collaboration~Et al., \emph{Electron and photon energy calibration with
+  the atlas detector using 2015-2016 lhc proton-proton collision data}, In:
+  JINST (2019), no.~14.03, P03017.
+
+\bibitem{ele-reco-2015}
+\bysame, \emph{Electron reconstruction and identification in the atlas
+  experiment using the 2015 and 2016 lhc proton–proton collision data at
+  $\surd$s = 13 tev}, In: Eur. Phys. \textbf{J} (2019), no.~C 79, 639.
+
+\bibitem{ssm}
+B.~M.~G. Altarelli and M.~Ruiz-Altaba, \emph{Searching for new heavy vector
+  bosons in pp colliders}, Z. Phys. \textbf{C 45} (1989), no.~109.
+
+\bibitem{jvt}
+Et~al. ATLAS~collab., \emph{Performance of pile-up mitigation techniques for
+  jets in pp collisions at $\surd$s = 8 tev using the atlas detector}, In: Eur.
+  Phys. (2016), no.~J. C 76.11, 581.
+
+\bibitem{fjvt}
+et~al. ATLAS~collab., \emph{Forward jet vertex tagging using the particle flow
+  algorithm}, In: Tech. rep. (2019), no.~ATL-PHYS-PUB-2019-026.
+
+\bibitem{btag-opt-2016}
+et~al. ATLAS~Collaboration, \emph{Optimisation of the atlas b-tagging
+  performance for the 2016 lhc run}, ATL-PHYS-PUB-2016-012 (2016).
+
+\bibitem{track-reco}
+Et~al. ATLAS~Collaboration, \emph{Performance of the atlas track reconstruction
+  algorithms in dense environments in lhc run 2}, In: Eur. Phys. J. C (2017),
+  no.~77.10, 673.
+
+\bibitem{btag-iden-eff}
+et~al. ATLAS~Collaboration, \emph{Atlas b-jet identification performance and
+  efficiency measurement with $t\bar{t}$ events in pp collisions at $surd$s =
+  13 tev}, In. Eur. Phys (2019), no.~J. C 79, 970.
+
+\bibitem{DIPS}
+\bysame, \emph{Deep sets based neural networks for impact parameter flavour
+  tagging in atlas}, ATL-PHYS-PUB-2020-014 (2020).
+
+\bibitem{trigger}
+Et~al. ATLAS~Collaboration, \emph{Operation of the atlas trigger system in run
+  2}, JINST (2020), no.~15.10, P10004.
+
+\bibitem{large-r-jets}
+Et~al. ATLAS~collaboration, \emph{Optimisation of large-radius jet
+  reconstruction for the atlas detector in 13 tev proton-proton collisions},
+  In: Eur. Phys. J. C (2021), no.~81.4, 334.
+
+\bibitem{gnn-ftag}
+et~al. ATLAS~Collaboration, \emph{Graph neural network jet flavour tagging with
+  the atlas detector}, ATL-PHYS-PUB-2022-027 (2022), 5--7.
+
+\bibitem{dl1d-hllhc-ftag}
+\bysame, \emph{Neural network jet flavour tagging with the upgraded atlas inner
+  tracker detector at the high-luminosity lhc}, ATL-COM-PHYS-2022-934 (2022).
+
+\bibitem{f-test}
+N.~Berger, \emph{Recommendations for the modeling of smooth backgrounds}, tech.
+  rep. ATL-COM-PHYS-2020-418 (2020).
+
+\bibitem{Lund-string}
+G.~Ingelman Bo~Andersson, G.~Gustafson and T.~Sjöstrand, \emph{Parton
+  fragmentation and string dynamics}, Phys. Rept. (1983), no.~97, 31--145.
+
+\bibitem{hllhc-tech}
+et~al. Béjar~Alonso, \emph{High-luminosity large hadron collider (hl-lhc):
+  Technical design report}, CERN Archives \textbf{10} (2020).
+
+\bibitem{comp-lep}
+M.~Chala and M.~Spannowsky, \emph{Behavior of composite resonances breaking
+  lepton flavor universality}, Phys. Rev. \textbf{D} (2018), no.~98.
+
+\bibitem{Christenson}
+J.~H. Christenson, J.~W. Cronin, V.~L. Fitch, and R.~Turlay, \emph{Evidence for
+  the $2\ensuremath{\pi}$ decay of the $k_{2}^{0}$ meson}, Phys. Rev. Lett.
+  \textbf{13} (1964), 138--140.
+
+\bibitem{LR-jets-opt}
+ATLAS Collab., \emph{Performance of jet substructure techniques for large-r
+  jets in proton-proton collisions at $\surd$s = 7 tev using the atlas
+  detector}, JHEP (2013), no.~09, 076.
+
+\bibitem{pythia-para}
+\bysame, \emph{Atlas pythia 8 tunes to 7 tev data}, ATL-PHYS-PUB-2014-021
+  (2014), no.~191.
+
+\bibitem{pflow}
+\bysame, \emph{The anti-kt jet clustering algorithm}, In: Eur. Phys. (2017),
+  no.~J. C 77.7, 466.
+
+\bibitem{LR-jets-cali}
+\bysame, \emph{In situ calibration of large-radius jet energy and mass in 13
+  tev proton-proton collisions with the atlas detector}, In: Eur. Phys. (2019),
+  no.~J. C 79.9, 135.
+
+\bibitem{jes}
+ATLAS collab., \emph{Jet energy scale and resolution measured in proton-proton
+  collisions at $\surd$s = 13 tev with the atlas detector}, In: Eur. Phys.
+  (2021), no.~J. C 81.8, 689.
+
+\bibitem{LR-jets}
+ATLAS Collab., \emph{Optimisation of large-radius jet reconstruction for the
+  atlas detector in 13 tev proton-proton collisions}, In: Eur. Phys. (2021),
+  no.~J. C 81.4, 334.
+
+\bibitem{topo-cluster}
+ATLAS collab. Et~al., \emph{Topological cell clustering in the atlas
+  calorimeters and its performance in lhc run 1}, In: Eur. Phys. (2017), no.~J.
+  C 77, 639.
+
+\bibitem{alice}
+ALICE Collaboration, \emph{The alice experiment at the cern lhc}, JINST
+  \textbf{3} (2008), S08002.
+
+\bibitem{atlas}
+ATLAS Collaboration, \emph{The atlas experiment at the cern large hadron
+  collider}, JINST \textbf{3} (2008), S08003.
+
+\bibitem{itk-tech}
+\bysame, \emph{Technical design report for the atlas inner tracker strip
+  detector}, CERN, tech. rep. (2017).
+
+\bibitem{e-y_performance}
+ATLAS collaboration, \emph{Electron and photon performance measurements with
+  the atlas detector using the 2015-2017 lhc proton-proton collision data},
+  JINST (2019), no.~14.12, P12006.
+
+\bibitem{cms}
+CMS Collaboration, \emph{The cms experiment at the cern lhc}, JINST \textbf{3}
+  (2008), S08004.
+
+\bibitem{lhcb}
+LHCb Collaboration, \emph{The lhcb detector at the lhc}, JINST \textbf{3}
+  (2008), S08005.
+
+\bibitem{disc-sens}
+G.~Cowan, \emph{Discovery sensitivity for a counting experiment with with
+  background uncertainty},  (2012).
+
+\bibitem{fastsim}
+ATLAS~Collab. et~al., \emph{The simulation principle and performance of the
+  atlas fast calorimeter simulation fastcalosim}, Tech. Rep.
+  ATL-PHYS-PUB-2010-013 (2010).
+
+\bibitem{hgtd}
+ATLAS~Collab et. al, \emph{A high-granularity timing detector (hgtd) in atlas :
+  Performance at the hl-lhc}, ATL-LARG-PROC-2018-003 (2018), 6.
+
+\bibitem{ele-cut}
+\bysame, \emph{Electron reconstruction and identification in the atlas
+  experiment using the 2015 and 2016 lhc proton–proton collision data at
+  $\surd$s = 13 tev}, In: Eur. Phys. (2019), no.~J. C 79, 693.
+
+\bibitem{dijet-res}
+ATLAS~Collab. et~al., \emph{Search for dĳet resonances in events with an
+  isolated charged lepton using $\surd$s = 13 tev proton-proton collision data
+  collected by the atlas detector}, JHEP 06 (2020).
+
+\bibitem{run4-ftag}
+ATLAS~Collab et. al, \emph{Neural network jet flavour tagging with the upgraded
+  atlas inner tracker detector at the high-luminosity lhc},
+  ATL-PHYS-PUB-2022-047 (2022), 3--4.
+
+\bibitem{iso-lep-res}
+ATLAS~Collab. et~al., \emph{Search for new phenomena in multi-body invariant
+  masses in events with at least one isolated lepton using 13 tev proton-proton
+  collision data collected by the atlas detector}, tech. rep.
+  ATLAS-CONF-2022-048 (2022).
+
+\bibitem{alt-fit-hypo}
+ATLAS~Collaboration et~al., \emph{Search for dĳet resonances in events with an
+  isolated lepton using $\surd$s = 13 tev proton-proton collision data
+  collected by the atlas detector}, tech. rep. ATLAS-CONF-2018-015 (2018).
+
+\bibitem{fit-hypo}
+\bysame, \emph{Search for low-mass dĳet resonances using trigger-level jets
+  with the atlasdetector in p p collisions at $\surd$s = 13 tev}, arXiv (2018),
+  no.~1804.03496.
+
+\bibitem{ele-reco}
+\bysame, \emph{Electron and photon performance measurements with the atlas
+  detector using the 2015-2017 lhc proton-proton collision data}, In: JINST
+  (2019), no.~14.12.
+
+\bibitem{numpy}
+Charles R.~Harris et~al., \emph{Array programming with numpy}, In: Nature
+  585.7825 (2020), 357--362.
+
+\bibitem{lwtnn}
+Daniel Hay~Guest et~al., \emph{lwtnn/lwtnn}, Version v2.9 (2019).
+
+\bibitem{sherpa-enrico}
+Enrico~Bothmann et~al., \emph{Event generation with sherpa 2.2}, In: SciPost
+  Phys. (2019), no.~7.3, 034.
+
+\bibitem{scikit}
+F.~Pedregosa et~al., \emph{Scikit-learn: Machine learning in python},  (2011),
+  no.~12, 2825--2830.
+
+\bibitem{json}
+Felipe~Pezoa et~al., \emph{Foundations of json schema}, In: Proceedings of the
+  25th International Conference on World Wide Web \textbf{International World
+  Wide Web Conferences Steering Committee} (2016), 263--273.
+
+\bibitem{keras}
+François~Chollet et~al., \emph{keras},  (2015).
+
+\bibitem{herwig-para}
+Johannes~Bellm et~al., \emph{Herwig 7.0/herwig$++$ 3.0 release note}, In: Eur.
+  Phys. (2016), no.~J. C 76.4, 196.
+
+\bibitem{wkk2}
+K.~S.~Agashe et~al, \emph{Lhc signals from cascade decays of warped vector
+  resonances}, JHEP \textbf{05} (2017), no.~078.
+
+\bibitem{herwig}
+M.~Bähr et~al, \emph{Herwig$++$ physics and manual}, In: Eur. Phys. (2008),
+  no.~J. C 58, 639.
+
+\bibitem{review-of-hep}
+M.~Tanabashi et~al., \emph{Forward jet vertex tagging using the particle flow
+  algorithm}, In: Phys. Rev. \textbf{D} (2018), no.~98, 03001.
+
+\bibitem{Deep_sets}
+M.~Zaheer et~al, \emph{Deep sets}, CoRR (2017), 2,5.
+
+\bibitem{tensorflow}
+Martín~Abadi et~al., \emph{Tensorflow: Large-scale machine learning on
+  heterogeneous systems}, Software available from tensorflow.org (2015).
+
+\bibitem{run1}
+R.~Alemany-Fernandez et~al., \emph{Operation and configuration of the lhc in
+  run 1}, Tech. rep. (2013).
+
+\bibitem{geant4}
+S.~Agostinelli et~al., \emph{Geant4 $–$ a simulation toolkit}, Nucl. Instrum.
+  Meth. \textbf{A} (2003), no.~506, 250.
+
+\bibitem{newt}
+T.~Cornelissen et~al, \emph{Concepts, design and implementation of the atlas
+  new tracking (newt)}, Tech. rep. \textbf{ATL-SOFT-PUB-2007-007} (2007).
+
+\bibitem{LHC}
+L.~Evans and P.~Bryant, \emph{Lhc machine}, JINST \textbf{3, S08001} (2008).
+
+\bibitem{kalman}
+R.~Frühwirth, \emph{Application of kalman filtering to track and vertex
+  fitting}, Nucl. Instrum. Methods \textbf{A} (1987), no.~262, 444.
+
+\bibitem{muon-reco}
+Et~al. G.~Aad, \emph{Muon reconstruction and identification efficiency in atlas
+  using the full run 2 pp collision data set at $\surd$s = 13 tev}, In: EUR.
+  Phys. \textbf{J. C 81.7} (2021), 578.
+
+\bibitem{limit-setting}
+E.~Gross G.~Cowan, K.~Cranmer and O.~Vitells, \emph{Asymptotic formulae for
+  likelihood-based tests of new physics}, The European Physics Journal
+  \textbf{ISSN: 1434-6052} (2011), no.~C 71.
+
+\bibitem{Glashow}
+S.~L. Glashow, \emph{{Partial Symmetries of Weak Interactions}}, Nucl. Phys.
+  \textbf{22} (1961), 579--588.
+
+\bibitem{Grossman}
+Mark~I. Grossman, \emph{John dalton and the london atomists}, Notes and Records
+  of the Royal Society of London \textbf{68(4)} (2014), no.~68, 339--356.
+
+\bibitem{hdf5}
+The~HDF Group, \emph{Hierarchical data format version 5},  (2000-2010).
+
+\bibitem{powheg}
+Laura~Reina Heribertus B.~Hartanto, Barbara~Jäger and Doreen Wackeroth,
+  \emph{Higgs boson production in association with top quarks in the powheg
+  box}, In: SciPost Phys. \textbf{D} (2019), no.~91.9, 094003.
+
+\bibitem{lumi}
+W.~Herr and B.~Muratori, \emph{Concept of luminosity}, In: CERN Accelerator
+  School at DESY Zeuthen: Accelerator Physics (2003), 364.
+
+\bibitem{Higgs}
+Peter~W. Higgs, \emph{Broken symmetries and the masses of gauge bosons}, Phys.
+  Rev. Lett. \textbf{13} (1964), 508--509.
+
+\bibitem{matplotlib}
+J.~D. Hunter, \emph{Matplotlib: A $2$d graphics environment}, In: Computing in
+  Science and Engineering (2007), no.~9.3, 90--95.
+
+\bibitem{parton-showering}
+Stefan Höche, \emph{Introduction to parton-shower event generators},
+  Theoretical Advanced Study Institute in Elementary Particle Physics: Journeys
+  Through the Precision Frontier \textbf{Amplitudes for Colliders} (2015),
+  235--295.
+
+\bibitem{Hough}
+J.~Illingworth and J.~Kittler, \emph{A survey of the hough transform. comput.
+  vis. gr. image process}, issn: 0734-189X (1988), no.~44, 87.
+
+\bibitem{smoothing}
+K.~Ying J.~Luo and J.~Bai, \emph{Savitzky-golay smoothing and differentiation
+  filter for even number data}, Signal Processing \textbf{ISSN: 0165-1684}
+  (2005), no.~85.
+
+\bibitem{Jan-cluster}
+Frank~Krauss Jan-Christopher~Winter and Gerhard Soff, \emph{A modified
+  cluster-hadronization model}, Eur. Phys J. C (2004), no.~36, 381--395.
+
+\bibitem{madgraph}
+et~al. Johan~Alwall, \emph{Madgraph/madevent v4: The new web generation}, JHEP
+  (2007), no.~09, 028.
+
+\bibitem{junk-Reproducibility}
+Thomas Junk and Louis Lyons, \emph{Reproducibility and {Replication} of
+  {Experimental} {Particle} {Physics} {Results}}, Harvard Data Science Review
+  \textbf{2} (2020), no.~4, https://hdsr.mitpress.mit.edu/pub/1lhu0zvn.
+
+\bibitem{wkk1}
+S.~Hong K.~Agashe, P.~Du and R.~Sundrum, \emph{Flavor universal resonances and
+  warped gravity}, JHEP \textbf{01} (2017), no.~016.
+
+\bibitem{antikt}
+G.~P.~Salam M.~Cacciari and G.~Soyez, \emph{The anti-kt jet clustering
+  algorithm}, In: JHEP (2008), no.~04, 063.
+
+\bibitem{ckm}
+T.~Maskawa M.~Kobayashi, \emph{{CP-Violation in the Renormalizable Theory of
+  Weak Interaction}}, Progress of Theoretical Physics \textbf{49(2)} (1973),
+  652--657.
+
+\bibitem{ch-higg1}
+M.~Magg and C.~Wetterich, \emph{Neutrino mass problem and gauge hierarchy},
+  Phys. Rev. \textbf{B} (1981), no.~98.
+
+\bibitem{docker}
+Dirk Merkel, \emph{Docker: lightweight linux containers for consistent
+  development and deployment}, In: Linux journal (2014), no.~2014.239, 2.
+
+\bibitem{noether}
+E.~Noether, \emph{Invariante variationsprobleme}, Math-phys. Klasse (1918),
+  no.~Seite 235-157.
+
+\bibitem{pandas}
+The pandas~development team, \emph{pandas-dev/pandas: Pandas}, Version latest
+  (2020).
+
+\bibitem{atlas-detects}
+J.~Pequenao and P.~Schaffner, \emph{How atlas detects particles: diagram of
+  particle paths in the detector},  (2013).
+
+\bibitem{pich}
+A.~Pich, \emph{The standard model of electroweak interactions},
+  arXiv:hep-ph/0502010 (2004), no.~IFIC/05-13, FTUV/05-0201.
+
+\bibitem{python}
+Guido~Van Rossum and Fred~L. Drake, \emph{Python 3 reference manual}, Scotts
+  Valley, CA: CreateSpace (2009).
+
+\bibitem{sakharov}
+Andrei~D. Sakharov, \emph{Violation of cp invariance, c asymmetry, and baryon
+  asymmetry of the universe}, Soviet Physics Uspekhi \textbf{34} (1991-05),
+  392.
+
+\bibitem{Salam}
+Abdus Salam and JC~Warc, \emph{{Electromagnetic and weak interactions}},
+  Physics Letters \textbf{13} (1964), 168--174.
+
+\bibitem{pythia-stefan}
+et~al. Torbjörn~Sjöstrand, \emph{An introduction to pythia 8.2}, In: Comput.
+  Phys. Commun (2015), no.~191, 159.
+
+\bibitem{weinberg}
+Steven Weinberg, \emph{A model of leptons}, Physical Review Letters \textbf{19}
+  (1967), no.~21.
+
+\bibitem{run2}
+J.~Wenninger, \emph{Operation and configuration of the lhc in run 2}, Tech.
+  rep. (2019).
+
+\bibitem{workman}
+R.L. Workman, \emph{Review of particle physics}, PTEP \textbf{2022} (2022), cit
+  on pp. 23,25.
+
+\bibitem{wu}
+C.~S. Wu, E.~Ambler, R.~W. Hayward, D.~D. Hoppes, and R.~P. Hudson,
+  \emph{Experimental test of parity conservation in beta decay}, Phys. Rev.
+  \textbf{105} (1957), 1413--1415.
+
+\bibitem{yang-mills}
+C.~N. Yang and R.~L. Mills, \emph{Conservation of isotopic spin and isotopic
+  gauge invariance}, Phys. Rev. \textbf{96} (1954), 191--195.
+
+\bibitem{Zp}
+F.~Yu, \emph{A z’ model for the cdf dĳet anomaly}, Phys. Rev. \textbf{D83}
+  (2011), no.~094028.
+
+\end{thebibliography}

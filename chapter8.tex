@@ -1,0 +1,30 @@
+\begingroup
+\clearpage% Manually insert \clearpage
+\let\clearpage\relax% Remove \clearpage functionality
+\vspace*{-16pt}% Insert needed vertical retraction
+\chapter[CONCLUSION]{CONCLUSION}
+\endgroup
+
+The \gls{sm} of particle physics has proven to be one of the most successful theories that has ever been developed, standing firm through decades of research while being 
+solidified more through the discovery of the Higgs boson. Even though its success is unprecedented, there are gaps that need to be filled in order to describe phenomena 
+such as gravity and dark matter. As the field of High Energy Physics grows to help explain and fill these gaps, new detectors, techniques and tools are needed to be 
+developed. This dissertation presents two studies that help this ever needed growth, along with a proposed non-generic anomaly detection search that is in its infant stage.
+One presents preliminary studies of particle identification machine learning tools using 
+simulated data of the \gls{atlas} detector with its upgrade that is being implemented in 2029 for the evolution of the \gls{hllhc}. The second study shows a full analysis 
+that was the first of its kind using unsupervised machine learning for anomaly detection. A non-generic anomaly detection analysis with very preliminary plots is also discussed. 
+\par
+The DL1d tagger developed for the \gls{atlas} Upgrade for the \gls{hllhc} shows promising progress. This is known to be preliminary due to the fact that the training statistics,
+which is crucial for its effectiveness, has a magnitude less than the current \gls{atlas} standard tagger for Run 2. Regardless of this fact, the trained DL1d tagger for Upgrade
+shows to be as effective at higher working points while also allowing for the tagging of particles at $|\textrm{η}| \ge$ 2.4 due to the new implemented \gls{atlas} geometry. 
+The DL1d tagger is in the works of being replaced by a tagger based on a graph neural network architecture and is planned to the standard used tagger once the Upgrade is complete 
+in 2029. Therefore, as of right now, there is no plan to retrain the DL1d tagger for Upgrade and the one that is trained in this dissertation will be used as the industry baseline. 
+\par
+The final analysis shows a novel anomaly detection technique using unsupervised machine learning for anomaly detection training on 1\% of Run 2 data. The deep-learning architecture
+of an \gls{ae} is used with its reconstruction loss defining the anomaly score. From here, anomaly regions are defined by using the anomaly score as cut on \gls{sm} events.
+Bump hunting strategies are discussed and implemented on nine different di-object invariant mass distributions in order to find any deviations within these anomaly regions 
+that may hint at signatures of new physics. The largest deviation found is within the \mjmu distribution in the mass range of 4.6-4.8 TeV. This deviation resulted in a 
+local significance of 3.9$\sigma$ and a global significance of 2.2$\sigma$. Frequentist limits were taken for Gaussian shape signals with means at a ranges defined by 
+benchmark \gls{bsm} models. 
+\par
+The beginning of a non-generic anomaly detection search using the strategy discussed in this analysis for a specific \gls{bsm} model of a heavy scalar boson is briefly mentioned. 
+The plots shown are very preliminary. A fellow graduate student is expected to continue this analysis in hopes it may discover hints of new physics. 

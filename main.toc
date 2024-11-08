@@ -1,0 +1,113 @@
+\renewcommand {\cftchapleader } {\cftdotfill {4.5}}
+\nobreakspace {}{\kern -0.3in Chapter}\hfill {Page}\par 
+\contentsline {chapter}{\numberline {I}INTRODUCTION}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Outline}{2}{section.1.1}%
+\contentsline {chapter}{\numberline {II}THE STANDARD MODEL}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}A Model of Leptons}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}The Standard Model}{5}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Theoretical Foundation}{7}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Fundamental Interactions}{10}{subsection.2.2.2}%
+\contentsline {subsubsection}{The Electromagnetic Interaction}{10}{section*.10}%
+\contentsline {subsubsection}{The Electroweak Interaction}{12}{section*.21}%
+\contentsline {subsubsection}{The Strong Interaction}{15}{section*.32}%
+\contentsline {subsection}{\numberline {2.2.3}Spontaneous Symmetry Breaking}{17}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}The Higgs Mechanism}{21}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Beyond the Standard Model}{23}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Unexplained Phenomena}{23}{subsection.2.3.1}%
+\contentsline {chapter}{\numberline {III}THE ATLAS DETECTOR AT THE LHC}{26}{chapter.3}%
+\contentsline {section}{\numberline {3.1}The Large Hadron collider}{26}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Cross Section, Luminosity and Pile-Up}{28}{subsection.3.1.1}%
+\contentsline {section}{\numberline {3.2}The ATLAS Detector}{30}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}The Coordinate System of ATLAS}{32}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}The Inner Detector}{34}{subsection.3.2.2}%
+\contentsline {subsubsection}{The Pixel Detector}{34}{section*.81}%
+\contentsline {subsubsection}{The SCT Detector}{35}{section*.82}%
+\contentsline {subsubsection}{The TRT Detector}{36}{section*.84}%
+\contentsline {subsection}{\numberline {3.2.3}The Calorimeter System}{37}{subsection.3.2.3}%
+\contentsline {subsubsection}{Electromagnetic Calorimeters}{38}{section*.85}%
+\contentsline {subsubsection}{Hadronic Calorimeters}{40}{section*.88}%
+\contentsline {subsection}{\numberline {3.2.4}The Muon System}{42}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Trigger and Data Acquisition}{43}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.3}The High-Luminosity LHC and the ATLAS Detector Upgrade}{44}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}The Inner Tracker}{45}{subsection.3.3.1}%
+\contentsline {subsubsection}{ITk Layout}{46}{section*.93}%
+\contentsline {subsection}{\numberline {3.3.2}B-Tagging and Vertex Reconstruction for the ITk}{47}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}High Granularity Timing Detector}{48}{subsection.3.3.3}%
+\contentsline {chapter}{\numberline {IV}OBJECT RECONSTRUCTION AND EVENT SIMULATION IN ATLAS}{51}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Track and Vertex Reconstruction}{52}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Electrons}{53}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Muons}{56}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Jets}{58}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Jet Definition}{58}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Small Radius Jets}{60}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Large Radius Jets}{61}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}PFlow Object Calibration}{64}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.5}Jet Vertex Tagger}{65}{subsection.4.4.5}%
+\contentsline {section}{\numberline {4.5}Heavy-Flavor Tagging}{65}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Impact Parameter Algorithms}{68}{subsection.4.5.1}%
+\contentsline {subsubsection}{IPxD}{69}{section*.113}%
+\contentsline {subsubsection}{DIPS}{69}{section*.116}%
+\contentsline {subsection}{\numberline {4.5.2}Secondary Vertex Algorithm}{70}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}JetFitter}{72}{subsection.4.5.3}%
+\contentsline {section}{\numberline {4.6}High-Level Taggers}{73}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Working Points}{74}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}MV2}{74}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}DL1}{76}{subsection.4.6.3}%
+\contentsline {subsection}{\numberline {4.6.4}GN1}{77}{subsection.4.6.4}%
+\contentsline {section}{\numberline {4.7}Event Simulation}{78}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Monte Carlo Generators}{78}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Detector Simulation}{79}{subsection.4.7.2}%
+\contentsline {chapter}{\numberline {V}DEEP LEARNING MODEL TRAINING FOR THE HL-LHC}{81}{chapter.5}%
+\contentsline {section}{\numberline {5.1}DL1 Design}{81}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}DL1d design}{82}{subsection.5.1.1}%
+\contentsline {section}{\numberline {5.2}Software Chain}{84}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Preprocessing}{85}{section.5.3}%
+\contentsline {section}{\numberline {5.4} HL-LHC Samples}{89}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Object Selections}{89}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Sample Preprocessing}{90}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Training DL1d}{92}{subsection.5.4.3}%
+\contentsline {chapter}{\numberline {VI}SEARCH FOR NEW PHYSICS USING UNSUPERVISED MACHINE LEARNING FOR ANOMALY DETECTION}{103}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Strategy}{103}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Event Selection and Object Definitions}{104}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Photon Selection and Reconstruction}{105}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Jet Definition and Selection}{105}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}B-jet Selection}{106}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Final Selection}{106}{subsection.6.2.4}%
+\contentsline {section}{\numberline {6.3}Monte Carlo Simulations}{107}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Benchmark BSM Models}{107}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Sequential Standard Model}{107}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Simplified Dark Matter Model}{108}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.4}Kaluza-Klein Bosons Decaying to Radions}{108}{subsection.6.3.4}%
+\contentsline {subsection}{\numberline {6.3.5}Composite-Lepton Model}{109}{subsection.6.3.5}%
+\contentsline {subsection}{\numberline {6.3.6}Charged Higgs Model}{109}{subsection.6.3.6}%
+\contentsline {section}{\numberline {6.4}Event Input Representation}{109}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Autoencoder Training}{112}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Determination of Anomaly Region}{118}{subsection.6.5.1}%
+\contentsline {section}{\numberline {6.6}Analysis of Anomaly Regions}{123}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Background Modeling}{124}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Statistical Tests}{125}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.3}Background Fit Studies}{127}{subsection.6.6.3}%
+\contentsline {section}{\numberline {6.7}Results}{140}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}Limit Setting}{144}{subsection.6.7.1}%
+\contentsline {chapter}{\numberline {VII}PRELIMINARY NON-AGNOSTIC BSM MODEL ANOMALY SEARCH}{148}{chapter.7}%
+\contentsline {section}{\numberline {7.1}SH $\rightarrow b\bar {b}b\bar {b}$ Anomaly Detection }{148}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Event Selection}{149}{subsection.7.1.1}%
+\contentsline {section}{\numberline {7.2}Event Representation}{149}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Autoencoder Training}{150}{subsection.7.2.1}%
+\contentsline {section}{\numberline {7.3}Preliminary Loss Distribution Studies}{151}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Preliminary Anomaly Region Definition}{154}{subsection.7.3.1}%
+\contentsline {section}{\numberline {7.4}Conclusion}{155}{section.7.4}%
+\contentsline {chapter}{\numberline {VIII}CONCLUSION}{157}{chapter.8}%
+\contentsline {chapter}{REFERENCES}{159}{chapter*.202}%
+\contentsline {chapter}{APPENDICES}{168}{appendix*.203}%
+\setlength {\cftsecnumwidth }{16ex}
+\contentsline {section}{\numberline {APPENDIX A:}GN1 for Upgrade}{168}{section.Alph0.1}%
+\contentsline {section}{\numberline {APPENDIX B:}Run2 Datasets and HLT Lepton Triggers for Anomaly Detection}{171}{section.Alph0.2}%
+\contentsline {section}{\numberline {APPENDIX C:}Monte Carlo Samples for the Background Hypothesis}{173}{section.Alph0.3}%
+\contentsline {section}{\numberline {APPENDIX D:}RMM Event Examples}{175}{section.Alph0.4}%
+\contentsline {section}{\numberline {APPENDIX E:}Autoencoder Topology Studies}{181}{section.Alph0.5}%
+\contentsline {section}{\numberline {APPENDIX F:}Alternative AE Models for Systematics}{184}{section.Alph0.6}%
+\contentsline {section}{\numberline {APPENDIX G:}S/B Improvement Example}{186}{section.Alph0.7}%
+\contentsline {section}{\numberline {APPENDIX H:}Statistical Fit Function Studies for 1pb AR}{188}{section.Alph0.8}%
+\contentsline {section}{\numberline {APPENDIX I:}Statistical Fit Function Studies for 0.1pb AR}{199}{section.Alph0.9}%
+\contentsline {section}{\numberline {APPENDIX J:}Fit Studies on 10\% of Data}{210}{section.Alph0.10}%
